@@ -1,5 +1,8 @@
 # Vault Helm Chart
 This directory contains a Kubernetes chart to deploy an Open Source version of the Hashicorp Vault server.
+
+DISCLAIMER: THIS IS FOR DEVELOPMENT ONLY !!!
+
 ## Prerequisites Details
 * Kubernetes 1.12
 ## Chart Details
