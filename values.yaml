@@ -1,5 +1,5 @@
 # Default values for vault.
-replicaCount: 3
+replicaCount: 1
 ## The name of the secret to use if pulling images from a private registry.
 # imagePullSecret:
 image:
